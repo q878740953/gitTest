@@ -6,5 +6,6 @@ public class test {
         System.out.println("我在本地更新");
         System.out.println("我在github上在线更新");
         System.out.println("本地再次更新");
+        System.out.println("我测试更新");
     }
 }
